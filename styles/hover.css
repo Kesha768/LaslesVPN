@@ -1,0 +1,9 @@
+.plan__element:hover {
+    border: 2px solid #F53838;
+}
+
+.plan__element:hover .plan__element-button {
+    background-color: #F53838;
+    color: #FFFFFF;
+}
+
